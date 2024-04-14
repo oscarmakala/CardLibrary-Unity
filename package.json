@@ -1,0 +1,10 @@
+{
+  "name": "quana.card",
+  "displayName": "Quana.Card",
+  "version": "1.0.0",
+  "type": "template",
+  "unity": "2020.3",
+  "description": "Card game engine",
+  "dependencies": {
+  }
+}
